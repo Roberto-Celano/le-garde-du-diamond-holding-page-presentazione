@@ -2,6 +2,7 @@
 
 [![HTML5 Badge](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS3 Badge](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)](#)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
 [![Responsive](https://img.shields.io/badge/Responsive-%E2%9C%94-lightgrey?style=for-the-badge)](#)
 [![SEO Optimized](https://img.shields.io/badge/SEO-Optimized-brightgreen?style=for-the-badge)](#)
 
