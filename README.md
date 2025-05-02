@@ -35,7 +35,7 @@ La pagina è attualmente in fase di sviluppo e offre una **struttura responsive*
 ### 🛠️ Come Clonare ed Eseguire
 
 ```bash
-git clone https://github.com/Roberto-Celano/le-garde-du-diamond-holding-page.git
+git clone https://github.com/Roberto-Celano/le-garde-du-diamond-holding-page-presentazione.git
 cd le-garde-du-diamond-holding-page
 ```
 Apri **index.html** direttamente nel browser per visualizzare la pagina.
